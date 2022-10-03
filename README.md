@@ -56,7 +56,7 @@ Feel free to make use of any libraries you prefer. If you've previously built so
 
 ### Additional considerations
 
-For senior and mid-level positions (or for those who want to demostrate their skills), we will be considering the following areas into our evaluation:
+For senior and mid-level positions (or if you want to demostrate your skills), we will be considering the following areas into our evaluation:
 
 1. Code smells
     * Does the candidate have any methods that are not considered best practices?
