@@ -2,8 +2,6 @@
 
 
 ## Table of contents
-- [Rad AI Data Engineer challenge](#rad-ai-data-engineer-challenge)
-  * [Table of contents](#table-of-contents)
   * [Introduction](#introduction)
   * [Description](#description)
   * [Deliverables](#deliverables)
