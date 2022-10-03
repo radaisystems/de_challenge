@@ -2,13 +2,13 @@
 
 
 ## Table of contents
+- [Rad AI Data Engineer challenge](#rad-ai-data-engineer-challenge)
   * [Introduction](#introduction)
   * [Description](#description)
   * [Deliverables](#deliverables)
   * [General Evaluation](#general-evaluation)
     + [Additional considerations](#additional-considerations)
     + [Bonus points](#bonus-points)
-
 
 ## Introduction
 
